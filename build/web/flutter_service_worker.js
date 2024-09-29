@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "835c8e945afb40a8be03fec185b5dbc1",
-"assets/AssetManifest.bin.json": "961ac0a5639f2a16da1de59113d43022",
-"assets/AssetManifest.json": "ad6c98432e71478b4f30ac70146badc5",
+const RESOURCES = {"assets/AssetManifest.bin": "ad3b0db316baa03d83719ab9e2410bf8",
+"assets/AssetManifest.bin.json": "677edc79433c87f59e43817817ecb6a7",
+"assets/AssetManifest.json": "fc893862ef063e23feddc7caedf0e7ef",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/Roboto-Medium.ttf": "68ea4734cf86bd544650aee05137d7bb",
+"assets/assets/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
 "assets/assets/images/200w.gif": "0cef27a0c71ea8d912229912c77fded8",
 "assets/assets/images/artworks-XANcqvK56YNvwOlK-pfuLuw-t500x500.jpg": "af2ba508ea9c35d8c999c8a5c0bb5f3e",
 "assets/assets/images/be4f57dd2bc3e5740c22337ac640478d.jpg": "3a6d2356cf2afdc9e8dad32747e10faf",
@@ -41,12 +42,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "835c8e945afb40a8be03fec185b5dbc1
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "2704101cb06ce66e2000356a312be25c",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "f8fa01fb2c65e39e9c4dcf2e26b0062b",
+"flutter_bootstrap.js": "2a76abebf009d8a0f1dc182d1804f60a",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "029cff74bb005aa0ab5edb27e7c038e4",
-"/": "029cff74bb005aa0ab5edb27e7c038e4",
-"main.dart.js": "acaedf43d1cf8c1f041bf296dcaf8853",
+"index.html": "318108bfd04a0f9032cbd2d0c54b393c",
+"/": "318108bfd04a0f9032cbd2d0c54b393c",
+"main.dart.js": "527907cc2e9830c91e4c4380cf394009",
 "version.json": "4557738cdb12bfa28be62f9054e61eb1"};
 // The application shell files that are downloaded before a service worker can
 // start.
